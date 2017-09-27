@@ -1,4 +1,4 @@
-package com.tory.weather.jsonmodle;
+package com.tory.weather.gson;
 
 import com.google.gson.annotations.SerializedName;
 
